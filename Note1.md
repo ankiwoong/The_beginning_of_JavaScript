@@ -19,3 +19,5 @@
     ```
     * HTML : 정적
     * JavaScript : 동적
+
+* HTML과 JS의 만남 : 이벤트
