@@ -21,3 +21,5 @@
     * JavaScript : 동적
 
 * HTML과 JS의 만남 : 이벤트
+
+* HTML과 JS의 만남 : 콘솔
