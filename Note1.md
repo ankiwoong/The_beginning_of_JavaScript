@@ -10,3 +10,12 @@
         ```js
         document.querySelector('body').style.backgroundColor='gray'
         ```
+
+* HTML과 JS의 만남 : script 태그
+    ```html
+    <script>
+        document.write('hello, world!');
+    </script>
+    ```
+    * HTML : 정적
+    * JavaScript : 동적
