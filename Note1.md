@@ -43,3 +43,14 @@
     ```html
     <h1 style="color: blue">Javascript<h1>
     ```
+
+* CSS기초(style 태그)
+    ```html
+    <head>
+    <style>
+        .js {
+            font-weight: bold;
+        }
+    </style>
+    </head>
+    ```
