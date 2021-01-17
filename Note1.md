@@ -54,3 +54,19 @@
     </style>
     </head>
     ```
+
+* CSS기초(선택자)
+    ```html
+    <style>
+    .js {
+        color: red;
+    }
+    </style>
+    ```
+    ```html
+    <style>
+    #first {
+        color: green;
+    }
+    </style>
+    ```
