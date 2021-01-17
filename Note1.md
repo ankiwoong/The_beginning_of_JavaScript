@@ -70,3 +70,6 @@
     }
     </style>
     ```
+
+* 제어할 태그 선택하기
+    * querySelector
