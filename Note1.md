@@ -32,3 +32,9 @@
     var y = 1;
     var x + y;
     ```
+
+* 웹브라우저 제어
+    ```html
+    <body>
+    <body style="background-color: black; color: white;">
+    ```
