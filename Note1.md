@@ -38,3 +38,8 @@
     <body>
     <body style="background-color: black; color: white;">
     ```
+
+* CSS기초(style 속성)
+    ```html
+    <h1 style="color: blue">Javascript<h1>
+    ```
