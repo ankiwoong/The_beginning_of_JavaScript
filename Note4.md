@@ -8,3 +8,7 @@
 * UI vs API
     * User Interface
     * Application Programming Interface
+
+* 수업을 마치며
+    * 프로젝트
+    * 검색어
