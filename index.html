@@ -4,22 +4,12 @@
 <head>
   <title>WEB1 - Welcome</title>
   <meta charset="utf-8">
-  <script>
-    function black() {
-      document.querySelector('body').style.backgroundColor = 'black';
-      document.querySelector('body').style.color = 'white';
-    }
-    function white() {
-      document.querySelector('body').style.backgroundColor = 'white';
-      document.querySelector('body').style.color = 'black';
-    }
-  </script>
+  <script src="colors.js"></script>
 </head>
 
 <body>
   <h1><a href="index.html">WEB</a></h1>
-  <input type="button" value="night" onclick="black()">
-  <input type="button" value="day" onclick="white()">
+  <input type="button" value="night" onclick="nightDatyHandler(this);">
   <ol>
     <li><a href="1.html">HTML</a></li>
     <li><a href="2.html">CSS</a></li>
