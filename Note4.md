@@ -4,3 +4,7 @@
 
 * 라이브러리와 프레임워크
     * jQuery CDN
+
+* UI vs API
+    * User Interface
+    * Application Programming Interface
